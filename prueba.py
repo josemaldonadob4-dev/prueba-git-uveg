@@ -1,5 +1,5 @@
 a = 5
 b = 3
-suma = a + b
+suma = a - b
 
 print("El resultado es:", suma)
